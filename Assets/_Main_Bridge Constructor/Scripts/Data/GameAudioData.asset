@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9350aafe4f2741d428e001ff1feaa8b2, type: 3}
+  m_Name: GameAudioData
+  m_EditorClassIdentifier: 
+  BackgroundMusic: {fileID: 8300000, guid: c80a678d124b03a4fad39686d6b8c271, type: 3}
+  HonkClip: {fileID: 8300000, guid: 2e0ee157aa1007e4ba4da1f0c0efc309, type: 3}
+  CorrectClip: {fileID: 8300000, guid: 3f2fae3f6dd54424496651b1ea957fd5, type: 3}
+  WrongClip: {fileID: 8300000, guid: 223ce07e660fafd459e37ab1bf2ed7eb, type: 3}
+  WinClip: {fileID: 8300000, guid: 61cfed95ddcced040bb836d8cfdde345, type: 3}
+  ButtonClickClip: {fileID: 8300000, guid: 02b6b87b625d65544a0b885b71bddad6, type: 3}
